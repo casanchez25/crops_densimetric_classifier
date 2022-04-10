@@ -1,4 +1,4 @@
-# turn_selection_classification
+# Crops Densimetric Classifier
 This project is related to the amount of turn arounds that crops should take in a densimetric machine in order to be approved for next processes 
 
 The columns of this projects refers to:
