@@ -3,7 +3,7 @@ This project is related to the amount of turn arounds that crops should take in 
 
 The columns of this projects refers to:
 - Orden: Order number
-- Preparación: Reciepe code
+- Preparación: Recipe code
 - Calidad: Quality related to the order number and reciepe
 - QQs Netos: Amount of Kilograms of the order
 - Línea: Machine Line
